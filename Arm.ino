@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h> 
 #include <Servo.h>
-
+ 
 char auth[] = "ee3xN4gZ0O9mo8VYQj6ozrJaGPX_E2Gt";
 
 char ssid[] = "Aman"; //Enter your Wifi User Name
